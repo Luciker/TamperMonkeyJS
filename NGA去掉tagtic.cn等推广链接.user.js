@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  NGA去掉tagtic.cn等推广链接
-// @author       NGA Luciker
+// @author       Luciker
 // @match        *://*.ngacn.cc/*
 // @match        *://*.nga.cn/*
 // @grant        none
